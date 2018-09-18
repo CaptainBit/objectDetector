@@ -1,4 +1,2 @@
 ﻿  VisionLab2.cpp
-d:\visionlab2\visionlab2\visionlab2.cpp(45): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
-d:\visionlab2\visionlab2\visionlab2.cpp(55): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
-  VisionLab2.vcxproj -> D:\VisionLab2\x64\Debug\VisionLab2.exe
+  VisionLab2.vcxproj -> C:\Users\usager\Documents\Visual Studio 2015\Projects\VisionLab2\x64\Debug\VisionLab2.exe
